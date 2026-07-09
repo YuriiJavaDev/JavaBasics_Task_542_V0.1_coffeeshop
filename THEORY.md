@@ -1,1 +1,1 @@
-## 
+## Application configuration in Boot.
