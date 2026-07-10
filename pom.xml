@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.yurii.pavlenko</groupId>
-	<artifactId>coffeeshop</artifactId>
+	<artifactId>1_coffeeshop</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name/>
 	<description/>
